@@ -105,7 +105,7 @@
                 "sketches": [
 {"name": "WebServer/examples/MultiHomedServers",
                     "sizes": [{
-                            "flash_bytes": 949838,
+                            "flash_bytes": 949822,
                             "flash_percentage": 72,
                             "ram_bytes": 48124,
                             "ram_percentage": 14

@@ -153,7 +153,7 @@
                     },
 {"name": "Matter/examples/MatterOnOffLight",
                     "sizes": [{
-                            "flash_bytes": 1693994,
+                            "flash_bytes": 1694010,
                             "flash_percentage": 53,
                             "ram_bytes": 99764,
                             "ram_percentage": 30
@@ -294,7 +294,7 @@
                     },
 {"name": "Matter/examples/MatterTemperatureSensor",
                     "sizes": [{
-                            "flash_bytes": 1637769,
+                            "flash_bytes": 1637777,
                             "flash_percentage": 52,
                             "ram_bytes": 94600,
                             "ram_percentage": 28

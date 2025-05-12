@@ -730,7 +730,7 @@
                     },
 {"name": "Matter/examples/MatterTemperatureLight",
                     "sizes": [{
-                            "flash_bytes": 1764690,
+                            "flash_bytes": 1764674,
                             "flash_percentage": 56,
                             "ram_bytes": 100660,
                             "ram_percentage": 30
@@ -754,7 +754,7 @@
                     },
 {"name": "Matter/examples/WiFiProvWithinMatter",
                     "sizes": [{
-                            "flash_bytes": 2561638,
+                            "flash_bytes": 2561622,
                             "flash_percentage": 81,
                             "ram_bytes": 114828,
                             "ram_percentage": 35
